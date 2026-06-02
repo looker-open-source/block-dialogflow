@@ -6,6 +6,8 @@
 ___
 # Readme
 
+This is not an officially supported Google product. This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security).
+
 ### What does this Block do for me?
 
 **(1) Analyze Dialogflow Efficiency** - Provides visibility into Dialogflow application performance so that you can identify the frequency and type of user queries that are being resolved inefficiently and remediate those interactions accordingly.
